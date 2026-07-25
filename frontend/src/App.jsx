@@ -13,7 +13,7 @@ function App() {
 
     try {
       const response = await axios.post(
-        "https://pagepulse-1-1f95.onrender.com/audit",
+        "https://pagepulse-2-l4vg.onrender.com/audit",
         {
           url: url,
         }
